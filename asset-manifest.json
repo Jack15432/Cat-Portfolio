@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Cat-Portfolio/static/css/main.442cbde1.css",
+    "main.js": "/Cat-Portfolio/static/js/main.7b920889.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Cat-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.jpg": "/Cat-Portfolio/static/media/profile.e444a9a42593294cfc5a.jpg",
+    "static/media/essay.pdf": "/Cat-Portfolio/static/media/essay.bc386efde30df9288a08.pdf",
+    "static/media/about.jpg": "/Cat-Portfolio/static/media/about.30567b959b36a2cfde77.jpg",
+    "static/media/testimonial3.png": "/Cat-Portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Cat-Portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Cat-Portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Cat-Portfolio/index.html",
+    "main.442cbde1.css.map": "/Cat-Portfolio/static/css/main.442cbde1.css.map",
+    "main.7b920889.js.map": "/Cat-Portfolio/static/js/main.7b920889.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Cat-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442cbde1.css",
+    "static/js/main.7b920889.js"
+  ]
+}
